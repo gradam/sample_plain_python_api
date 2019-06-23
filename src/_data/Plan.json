@@ -1,0 +1,17 @@
+{
+  "0": {
+      "name": "single",
+    "price": "49",
+    "number_of_websites": "1"
+  },
+  "1": {
+    "name": "plus",
+    "price": "99",
+    "number_of_websites": "3"
+  },
+  "2": {
+    "name": "infinite",
+    "price": "249",
+    "number_of_websites": "99999999999999999999999999"
+  }
+}
